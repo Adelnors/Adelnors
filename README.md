@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathanael Erlando Putra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **JISEBI Checker**
+- 🔭 I’m currently working on **Laci**
 
-- 🌱 I’m currently learning **Django and Flutter**
+- 🌱 I’m currently learning **React and Flutter**
 
 - 📫 How to reach me **erlando.putra.21@gmail.com**
 
